@@ -1,2 +1,3 @@
-# solidity-practice
+# July 2026
 - Studying blockchain data structures.
+- Exploring interoperability concepts.
