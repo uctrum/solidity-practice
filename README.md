@@ -2,3 +2,4 @@
 - Studying blockchain data structures.
 - Exploring interoperability concepts.
 - Reviewing optimistic rollups structure.
+- Learning about blockchain bridges.
