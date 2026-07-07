@@ -3,3 +3,4 @@
 - Exploring interoperability concepts.
 - Reviewing optimistic rollups structure.
 - Learning about blockchain bridges.
+- Exploring zk rollups conceptually.
