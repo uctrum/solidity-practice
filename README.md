@@ -4,3 +4,4 @@
 - Reviewing optimistic rollups structure.
 - Learning about blockchain bridges.
 - Exploring zk rollups conceptually.
+- Improving commit message consistency further.
