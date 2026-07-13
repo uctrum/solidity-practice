@@ -7,3 +7,4 @@
 - Improving commit message consistency further.
 - Studying DAO treasury management basics.
 - Learning about open source licenses.
+- Exploring unit testing structure.
