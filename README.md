@@ -10,3 +10,4 @@
 - Exploring unit testing structure.
 - Improving understanding of encryption basics.
 - Learning about oracle integration basics.
+- Studying transaction trace analysis.
