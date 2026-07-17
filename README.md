@@ -11,3 +11,4 @@
 - Improving understanding of encryption basics.
 - Learning about oracle integration basics.
 - Studying transaction trace analysis.
+- Understanding branches and merge concepts.
