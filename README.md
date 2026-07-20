@@ -12,3 +12,4 @@
 - Learning about oracle integration basics.
 - Studying transaction trace analysis.
 - Understanding branches and merge concepts.
+- Exploring the Base ecosystem.
