@@ -13,3 +13,4 @@
 - Studying transaction trace analysis.
 - Understanding branches and merge concepts.
 - Exploring the Base ecosystem.
+- Studying Solidity basics.
