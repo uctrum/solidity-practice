@@ -15,3 +15,4 @@
 - Exploring the Base ecosystem.
 - Studying Solidity basics.
 - Improving repository organization.
+- Improving commit consistency.
