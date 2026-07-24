@@ -16,3 +16,4 @@
 - Studying Solidity basics.
 - Improving repository organization.
 - Improving commit consistency.
+- Reviewing cross-chain concepts
