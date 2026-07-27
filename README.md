@@ -17,3 +17,4 @@
 - Improving repository organization.
 - Improving commit consistency.
 - Reviewing cross-chain concepts
+- Learning about RPC endpoints.
