@@ -18,3 +18,4 @@
 - Improving commit consistency.
 - Reviewing cross-chain concepts
 - Learning about RPC endpoints.
+- Understanding common smart contract risks.
