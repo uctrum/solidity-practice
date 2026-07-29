@@ -19,3 +19,4 @@
 - Reviewing cross-chain concepts
 - Learning about RPC endpoints.
 - Understanding common smart contract risks.
+- Exploring backend integration ideas.
