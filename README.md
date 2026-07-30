@@ -20,3 +20,4 @@
 - Learning about RPC endpoints.
 - Understanding common smart contract risks.
 - Exploring backend integration ideas.
+- Tracking weekly progress summary.
