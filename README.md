@@ -21,3 +21,4 @@
 - Understanding common smart contract risks.
 - Exploring backend integration ideas.
 - Tracking weekly progress summary.
+- Studying smart contract testing basics.
