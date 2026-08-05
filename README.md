@@ -26,3 +26,4 @@
 # August 2026
 - Summarizing current development stage.
 - Studying DAO treasury management basics.
+- Exploring hackathon participation ideas.
