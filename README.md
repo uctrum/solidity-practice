@@ -27,3 +27,4 @@
 - Summarizing current development stage.
 - Studying DAO treasury management basics.
 - Exploring hackathon participation ideas.
+- Learning about mock contracts.
