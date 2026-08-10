@@ -29,3 +29,4 @@
 - Exploring hackathon participation ideas.
 - Learning about mock contracts.
 - Reviewing proof of work differences.
+- Studying price feed mechanisms.
