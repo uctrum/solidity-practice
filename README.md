@@ -31,3 +31,4 @@
 - Reviewing proof of work differences.
 - Studying price feed mechanisms.
 - Studying transaction trace analysis.
+- Practicing small updates
