@@ -32,3 +32,4 @@
 - Studying price feed mechanisms.
 - Studying transaction trace analysis.
 - Practicing small updates
+- Tracking roadmap
