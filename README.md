@@ -34,3 +34,4 @@
 - Practicing small updates
 - Tracking roadmap
 - Studying smart contract logic
+- Exploring DeFi protocols
