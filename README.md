@@ -35,3 +35,4 @@
 - Tracking roadmap
 - Studying smart contract logic
 - Exploring DeFi protocols
+- Learning audit basics
