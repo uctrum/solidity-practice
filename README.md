@@ -37,3 +37,4 @@
 - Exploring DeFi protocols
 - Learning audit basics
 - Studying gas mechanics
+- Studying DeFi lending
