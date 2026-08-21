@@ -38,3 +38,4 @@
 - Learning audit basics
 - Studying gas mechanics
 - Studying DeFi lending
+- Studying bridges again
