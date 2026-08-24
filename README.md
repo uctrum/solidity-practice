@@ -39,3 +39,4 @@
 - Studying gas mechanics
 - Studying DeFi lending
 - Studying bridges again
+- Reviewing wallet connectors
