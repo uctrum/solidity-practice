@@ -40,3 +40,4 @@
 - Studying DeFi lending
 - Studying bridges again
 - Reviewing wallet connectors
+- Reviewing exploits
