@@ -41,3 +41,4 @@
 - Studying bridges again
 - Reviewing wallet connectors
 - Reviewing exploits
+- Studying proof of stake
