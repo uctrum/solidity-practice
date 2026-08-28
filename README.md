@@ -42,3 +42,4 @@
 - Reviewing wallet connectors
 - Reviewing exploits
 - Studying proof of stake
+- Improving repo layout
