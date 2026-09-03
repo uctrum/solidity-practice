@@ -43,3 +43,4 @@
 - Reviewing exploits
 - Studying proof of stake
 - Improving repo layout
+- Refining documentation
