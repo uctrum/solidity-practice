@@ -46,3 +46,4 @@
 - Refining documentation
 - Updating logs
 - Updating roadmap
+- Improving clarity
