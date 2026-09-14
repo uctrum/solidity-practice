@@ -47,3 +47,4 @@
 - Updating logs
 - Updating roadmap
 - Improving clarity
+- Studying rollups
