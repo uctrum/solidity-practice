@@ -48,3 +48,4 @@
 - Updating roadmap
 - Improving clarity
 - Studying rollups
+- Reviewing zk rollups
