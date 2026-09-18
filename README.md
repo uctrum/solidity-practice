@@ -49,3 +49,4 @@
 - Improving clarity
 - Studying rollups
 - Reviewing zk rollups
+- Learning indexing
