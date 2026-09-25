@@ -50,3 +50,4 @@
 - Studying rollups
 - Reviewing zk rollups
 - Learning indexing
+- Studying APIs
