@@ -51,3 +51,4 @@
 - Reviewing zk rollups
 - Learning indexing
 - Studying APIs
+- Reviewing liquidation
