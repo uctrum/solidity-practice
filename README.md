@@ -52,3 +52,4 @@
 - Learning indexing
 - Studying APIs
 - Reviewing liquidation
+- Studying RPC endpoints
