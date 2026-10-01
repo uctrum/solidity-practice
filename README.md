@@ -53,3 +53,6 @@
 - Studying APIs
 - Reviewing liquidation
 - Studying RPC endpoints
+
+# October 2026
+- Writing cleaner documentation.
