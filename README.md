@@ -54,5 +54,7 @@
 - Reviewing liquidation
 - Studying RPC endpoints
 - Understanding pull requests.
+
 # October 2026
 - Writing cleaner documentation.
+- Learning about GitHub collaboration tools.
