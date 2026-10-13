@@ -58,3 +58,4 @@
 # October 2026
 - Writing cleaner documentation.
 - Learning about GitHub collaboration tools.
+- Learning about commit history tracking.
