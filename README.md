@@ -60,3 +60,4 @@
 - Learning about GitHub collaboration tools.
 - Learning about commit history tracking.
 - Tracking Web3 progress daily.
+- Improving file structure planning.
