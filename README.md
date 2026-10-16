@@ -61,3 +61,4 @@
 - Learning about commit history tracking.
 - Tracking Web3 progress daily.
 - Improving file structure planning.
+- Exploring on-chain data basics.
