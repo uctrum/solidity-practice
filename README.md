@@ -63,3 +63,4 @@
 - Improving file structure planning.
 - Exploring on-chain data basics.
 - Learning about CI/CD concepts.
+- Reviewing governance token models.
