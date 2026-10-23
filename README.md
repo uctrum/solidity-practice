@@ -66,3 +66,4 @@
 - Reviewing governance token models.
 - Adding small incremental updates.
 - Studying smart contract testing basics.
+- Exploring IPFS fundamentals.
