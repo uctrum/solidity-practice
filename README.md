@@ -67,3 +67,4 @@
 - Adding small incremental updates.
 - Studying smart contract testing basics.
 - Exploring IPFS fundamentals.
+- Exploring interoperability concepts.
