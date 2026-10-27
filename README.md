@@ -68,3 +68,4 @@
 - Studying smart contract testing basics.
 - Exploring IPFS fundamentals.
 - Exploring interoperability concepts.
+- Improving clarity in technical explanations.
