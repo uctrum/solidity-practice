@@ -69,3 +69,4 @@
 - Exploring IPFS fundamentals.
 - Exploring interoperability concepts.
 - Improving clarity in technical explanations.
+- Exploring zk rollups conceptually.
