@@ -70,3 +70,4 @@
 - Exploring interoperability concepts.
 - Improving clarity in technical explanations.
 - Exploring zk rollups conceptually.
+- Studying historical blockchain exploits.
