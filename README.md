@@ -71,3 +71,4 @@
 - Improving clarity in technical explanations.
 - Exploring zk rollups conceptually.
 - Studying historical blockchain exploits.
+- Studying DAO treasury management basics.
