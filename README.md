@@ -72,3 +72,6 @@
 - Exploring zk rollups conceptually.
 - Studying historical blockchain exploits.
 - Studying DAO treasury management basics.
+
+# November 2026
+- Exploring hackathon participation ideas.
