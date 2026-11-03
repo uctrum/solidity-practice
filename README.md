@@ -75,3 +75,4 @@
 
 # November 2026
 - Exploring hackathon participation ideas.
+- Exploring unit testing structure.
