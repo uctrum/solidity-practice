@@ -77,3 +77,4 @@
 - Exploring hackathon participation ideas.
 - Exploring unit testing structure.
 - Learning about proof of stake design.
+- Learning about oracle integration basics.
